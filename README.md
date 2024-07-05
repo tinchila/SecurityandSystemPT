@@ -81,21 +81,21 @@ El proyecto tiene la siguiente estructura de carpetas y archivos:
 
 Este proyecto incluye varias funcionalidades, como:
 
-• Navegación: Utiliza componentes de navegación personalizados (NavLink).
-• Interactividad: Usa AOS para animaciones en scroll y Swiper para carruseles.
-• Responsive Design: Menús y diseño adaptable a dispositivos móviles.
-• Componentes Reutilizables: Incluye componentes reutilizables como Accordion y SectionHeading.
+- Navegación: Utiliza componentes de navegación personalizados (NavLink).
+- Interactividad: Usa AOS para animaciones en scroll y Swiper para carruseles.
+- Responsive Design: Menús y diseño adaptable a dispositivos móviles.
+- Componentes Reutilizables: Incluye componentes reutilizables como Accordion y SectionHeading.
 
 ## Dependencias
 
 Algunas de las dependencias utilizadas en este proyecto son:
 
-• @tailwindcss/forms: Para estilos de formularios.
-• aos: Para animaciones en scroll.
-• lucide-react: Conjunto de iconos react.
-• nextjs-toploader: Barra de carga para Next.js.
-• react-countup: Componente de contador animado.
-• swiper: Biblioteca de carruseles.
+- @tailwindcss/forms: Para estilos de formularios.
+- aos: Para animaciones en scroll.
+- lucide-react: Conjunto de iconos react.
+- nextjs-toploader: Barra de carga para Next.js.
+- react-countup: Componente de contador animado.
+- swiper: Biblioteca de carruseles.
 
 ## Más Información
 
