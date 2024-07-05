@@ -1,4 +1,4 @@
-# Proyecto Next.js
+# Proyecto Next.js 
 
 Este es un proyecto de [Next.js](https://nextjs.org/) creado con [`create-next-app`] (https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -11,7 +11,7 @@ Este proyecto es software de código abierto licenciado bajo la licencia MIT.
 🏁 Como empezar?
 
 ⚫ Primero, Clona este repositorio:
-git clone 
+git clone https://github.com/tinchila/SecurityandSystemPT.git
 
 ⚫ Segundo, instala las dependencias del proyecto:
 
@@ -47,6 +47,7 @@ Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, 
 
 El proyecto tiene la siguiente estructura de carpetas y archivos:
 
+```
 ⚫ app
     ⚪ layout.tsx: Archivo de layout general de la aplicación.
     ⚪ global.css: Archivo CSS global.
@@ -61,7 +62,6 @@ El proyecto tiene la siguiente estructura de carpetas y archivos:
         ○ interest
             • page.tsx: Página de intereses.
     ⚪ _test_: Archivos .tsx de test para probar los componentes.
-
     ⚪ components
         ○ Accordion.tsx: Componente de acordeón.
         ○ AOSInit.tsx: Componente para inicializar AOS (Animate On Scroll).
@@ -75,6 +75,7 @@ El proyecto tiene la siguiente estructura de carpetas y archivos:
         ○ index.ts: Archivo de constantes.
     ⚪ hooks
         ○ useWindowSize.ts: Hook personalizado para obtener el tamaño de la ventana.
+```
 
 ## Funcionalidades del Proyecto 
 
