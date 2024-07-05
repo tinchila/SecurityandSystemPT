@@ -14,7 +14,7 @@ const page = () => {
       <section className="max-width section-padding flex flex-col tablet:flex-row gap-20 items-center">
         <div className="relative w-full tablet:w-1/2 h-[calc(300px+20vw)] tablet:h-[600px]">
           <Image
-            src={"/images/6.png"}
+            src={"/images/about.png"}
             fill
             alt="about img"
             className="object-cover"

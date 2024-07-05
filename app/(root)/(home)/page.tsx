@@ -20,7 +20,7 @@ const page = () => {
           data-aos-delay="300"
         >
           <Image
-            src={"/images/5.png"}
+            src={"/images/hero.png"}
             alt="hero"
             fill
             className="object-cover"
